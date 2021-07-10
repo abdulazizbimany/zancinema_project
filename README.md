@@ -1,4 +1,4 @@
-# zancinema_project
+# ZANCINEMA WEB APPLICATION PROJECT
 A Zancinema project, is a final project of the Interactive Website Development course from The State university of Zanzibar (SUZA) that was done by Abdulaziz Said Soud as a student of diploma for Computer Science in that University and other three members.
 
 
