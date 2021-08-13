@@ -1,5 +1,5 @@
 # ZANCINEMA WEB APPLICATION PROJECT
-A Zancinema project, is a final project of the Interactive Website Development course from The State university of Zanzibar (SUZA) that was done by Abdulaziz Said Soud as a student of diploma for Computer Science in that University and other three members.
+A Zancinema project, is a final project of the Interactive Website Development course from The State university of Zanzibar (SUZA) that was done by Abdulaziz Said Soud as a student of diploma for Computer Science in that University and other three members (newbie programmers).
 
 
 *********** **End** **User** **Section** (**FRONT**) ***********
@@ -49,7 +49,7 @@ peppers defined by the sytsem and and hash them by using GOST algorithm that ret
 **Formula:**
 hash('gost', (md5(firstPepper) + md5(realPassword) + md5(lastPepper)))
 
---------------------- **I'M PROUD AND GAINED ALOT OF KNOWLEDGE ON THIS DYNAMIC WEB PROJECT!**---------------------------
+--------------------- **I'M PROUD AND GAINED ALOT OF KNOWLEDGE ON THIS FULL DYNAMIC WEB PROJECT!**---------------------------
                                                    **Thank You!**
 
 **GROUP NO 2**
