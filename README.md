@@ -49,7 +49,7 @@ peppers defined by the sytsem and and hash them by using GOST algorithm that ret
 **Formula:**
 hash('gost', (md5(firstPepper) + md5(realPassword) + md5(lastPepper)))
 
---------------------- **I'M PROUD AND GAINED ALOT OF KNOWLEDGE ON THIS FULL DYNAMIC WEB PROJECT!**---------------------------
+--------------------- **I'M PROUD AND GAINED ALOT OF KNOWLEDGE ON THIS DYNAMIC WEB PROJECT!**---------------------------
                                                    **Thank You!**
 
 **GROUP NO 2**
