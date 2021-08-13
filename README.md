@@ -53,7 +53,7 @@ hash('gost', (md5(firstPepper) + md5(realPassword) + md5(lastPepper)))
                                                    **Thank You!**
 
 **GROUP NO 2**
-1. ABDULAZIZ SAID SOUD
+1. ABDULAZIZ SAID SOUD (Leader)
 2. HUSSEIN KHEIR MAKAME
 3. OMAR MKUBWA OMAR
 4. SALIM MAULID SALUMS
